@@ -9,7 +9,7 @@ let fetch = require('node-fetch')
          let _gc2 = 'https://chat.whatsapp.com/' + await conn.groupInviteCode(gc2) 
          let _gc3 = 'https://chat.whatsapp.com/' + await conn.groupInviteCode(gc3) 
          let caption = ` 
- *Join juga group official Cute Bot!* 
+ *Join juga group official Gilzz Bot!* 
  Sekedar meramaikan, atau juga jika ada informasi mengenai bot. 
   
  *Group 1* 
@@ -32,7 +32,7 @@ let fetch = require('node-fetch')
          }}) 
      } catch (e) { 
          let tulisan = ` 
- *Join Juga Group Official Cute Bot!* 
+ *Join Juga Group Official Gilzz Bot!* 
 Sekedar meramaikan, atau juga jika ada informasi mengenai bot. 
   
  *Group 1* 
