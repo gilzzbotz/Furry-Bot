@@ -317,7 +317,7 @@ ${'```%npmdesc```'}
        } 
      }) 
      if (teks == '404') {
- 	let cute = `${pickRandom(['https://telegra.ph/file/017f9d58f41b857f36f29.jpg', 'https://telegra.ph/file/017f9d58f41b857f36f29.jpg', 'https://telegra.ph/file/017f9d58f41b857f36f29.jpg', 'https://telegra.ph/file/017f9d58f41b857f36f29.jpg', 'https://telegra.ph/file/017f9d58f41b857f36f29.jpg', 'https://telegra.ph/file/017f9d58f41b857f36f29.jpg', 'https://telegra.ph/file/017f9d58f41b857f36f29.jpg'])}` 
+ 	let cute = `${pickRandom(['https://telegra.ph/file/5371372aa6fde2b65adc4.jpg', 'https://telegra.ph/file/5371372aa6fde2b65adc4.jpg', 'https://telegra.ph/file/017f9d58f41b857f36f29.jpg', 'https://telegra.ph/file/017f9d58f41b857f36f29.jpg', 'https://telegra.ph/file/017f9d58f41b857f36f29.jpg', 'https://telegra.ph/file/017f9d58f41b857f36f29.jpg', 'https://telegra.ph/file/017f9d58f41b857f36f29.jpg'])}` 
  	let ori = `Hi Kak, @${m.sender.split`@`[0]}
  
 Saya Adalah Gilzz Bot Salah Satu Bot Whatsapp Yang Siap Membantu Kamu Mempermudah Sesuatu Seperti Membuat Sticker Dan Lainnya, Kalo Kamu Mau Request Fitur Silahkan Ketik #request Pesan Atau Fitur Yang Kamu Inginkan!`
